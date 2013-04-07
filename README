@@ -1,4 +1,14 @@
-Data/API Sources:
+Boston Cleanweb Hackathon 2.0
+=============
+
+
+Project Name: EnerNoc Motion
+____________________________
+In the spirit of Hans Rosling's famous TED talks and his brilliant data visualization, this project tries to combine the same motion chart visualization with the year-long data dump that EnerNoc just released. The amount of new insights gleaned from and the stories told by this data-set(with the use of such visualizations) should act as a call-to-action for more widespread usage of smart meters and/or more open consumption usage database and APIs.
+
+
+Data/API Sources
+____________________________
 
 2012 Commercial Energy Consumption Data
 https://open-enernoc-data.s3.amazonaws.com/anon/index.html
@@ -17,3 +27,15 @@ http://www.currentresults.com/Weather/US/average-state-temperatures-in-spring.ph
 http://www.currentresults.com/Weather/US/average-state-temperatures-in-summer.php
 http://www.currentresults.com/Weather/US/average-state-temperatures-in-fall.php
 http://www.currentresults.com/Weather/US/average-state-temperatures-in-winter.php
+
+
+Room For Improvement
+____________________
+
+1. Hour by hour resolution playback of the data on the motion chart
+2. Better temperature data (daily, geolocated)
+3. More dynamic utility rate look up (geolocated, seasonal, peak and off-peak, etc)
+4. Larger, more representative consumption data
+
+
+

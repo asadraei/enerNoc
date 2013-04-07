@@ -1,0 +1,19 @@
+Data/API Sources:
+
+2012 Commercial Energy Consumption Data
+https://open-enernoc-data.s3.amazonaws.com/anon/index.html
+
+NREL: Geolocated Utility Rate API
+http://developer.nrel.gov/api/georeserv/service/utility_rates.json?address=Boston&api_key=DEMO_KEY
+
+Google Charts
+https://developers.google.com/chart/interactive/docs/gallery/motionchart
+
+Google Geocode API
+http://maps.googleapis.com/maps/api/geocode/json?sensor=true&address=boston
+
+Average state-by-state monthly temperatures
+http://www.currentresults.com/Weather/US/average-state-temperatures-in-spring.php
+http://www.currentresults.com/Weather/US/average-state-temperatures-in-summer.php
+http://www.currentresults.com/Weather/US/average-state-temperatures-in-fall.php
+http://www.currentresults.com/Weather/US/average-state-temperatures-in-winter.php
